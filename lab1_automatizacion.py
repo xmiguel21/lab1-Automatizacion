@@ -17,3 +17,5 @@ fig, ax = plt.subplots()
 ax.plot(lista_numeros,lista,marker='o')
 plt.title("Grafico de las weas de automatizacion")
 plt.show( )
+
+print("me chupa un huevo")
