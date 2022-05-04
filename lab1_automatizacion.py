@@ -16,4 +16,4 @@ for x in range(0,30):
 fig, ax = plt.subplots()
 ax.plot(lista_numeros,lista,marker='o')
 plt.title("Grafico de las weas de automatizacion")
-plt.show()
+plt.show( )
